@@ -1,4 +1,4 @@
 Pyrogram
 TgCrypto
-python-3.10.8
+
 
